@@ -13,3 +13,4 @@ NO_COLOUR="\[\033[0m\]"
 
 PS1="$GREEN\u@machine$NO_COLOUR:\w$YELLOW\$(parse_git_branch)$NO_COLOUR\$ "
 4 Line created from XPS on Master
+5 this line was greated on test-branch child
